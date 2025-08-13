@@ -1,2 +1,5 @@
-# Dropboxer
-An open source file transfer app for use on local networks. Opens a site on your local network hosted by the machine that runs the executable. The address or link which is your IP along with the port number can be copied into another devices browser then be used for file uploads, for easier file transfers between devices.
+# Dropboxer INSTRUCTIONS
+1. Install files
+2. Make sure firewall isn't blocking the EXE file, a VPN can interfere with the app as well.
+3. Run the EXE file, it will bring up a command prompt to run the local server. This makes it so the server keeps running until you press enter in the command prompt, you restart your pc, or you use other methods to shut it down.
+4. You are now free to use this however you like! Be careful when recording your screen if you record youtube videos or stream on twitch because your ip will show in the address bar. For use, copy the exact website address on another device and then you can download the files you uploaded onto there. 
